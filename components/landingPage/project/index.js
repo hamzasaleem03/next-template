@@ -43,7 +43,7 @@ function index() {
               src="./img/Rectangle 16.jpg"
             />
           </div>
-          <div className="mt-36 ml-44 lg:block hidden">
+          <div className="mt-36 ml-36 lg:block hidden">
             <svg width="151" height="4" viewBox="0 0 151 4" fill="none" xmlns="http://www.w3.org/2000/svg">
            <line x1="0.75" y1="1.67322" x2="150.75" y2="1.67322" stroke="#334048" stroke-width="3"/>
             </svg>
@@ -81,7 +81,7 @@ function index() {
               <a href="" className="text-2xl font-bold leading-normal underline text-gray-700">View Project </a>
           </div>
           {/* end */}
-          <div className="mt-36 mr-44 lg:block hidden"><svg width="151" height="4" viewBox="0 0 151 4" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <div className="mt-36 mr-36 lg:block hidden"><svg width="151" height="4" viewBox="0 0 151 4" fill="none" xmlns="http://www.w3.org/2000/svg">
            <line x1="0.75" y1="1.67322" x2="150.75" y2="1.67322" stroke="#334048" stroke-width="3"/>
             </svg>
           </div>
@@ -128,7 +128,7 @@ function index() {
               src="./img/Rectangle 16.jpg"
             />
           </div>
-          <div className="mt-36 ml-44 lg:block hidden">
+          <div className="mt-36 ml-36 lg:block hidden">
             <svg width="151" height="4" viewBox="0 0 151 4" fill="none" xmlns="http://www.w3.org/2000/svg">
            <line x1="0.75" y1="1.67322" x2="150.75" y2="1.67322" stroke="#334048" stroke-width="3"/>
             </svg>

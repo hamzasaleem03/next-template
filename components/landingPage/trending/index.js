@@ -13,7 +13,7 @@ function index() {
     <>
    <div className='container mx-auto'>
       {/* <div>trending products</div> */}
-      <section className="lg:px-10 xl:px-10 2xl:px-10 md:px-6 px-4 py-12 relative md:block lg:block block">
+      <section className="lg:px-10 xl:px-10 2xl:px-10 md:px-6 px-4 py-12 relative md:block lg:block block overflow-x-hidden">
         <img className="absolute -z-10 lg:right-10 md:right-10 right-2 lg:w-[485px] md:w-[485px] w-[300px;]" src="./img/Rectangle 43.png" />
 
         <div className="flex items-center justify-between">
